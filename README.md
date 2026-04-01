@@ -85,8 +85,3 @@ I have hands-on experience working with JavaScript, Dart, PHP, Go, Flutter, C#, 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
-
-📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=gabizinha3&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabizinha3&layout=compact&theme=tokyonight&hide_border=true)
