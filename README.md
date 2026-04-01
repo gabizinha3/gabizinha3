@@ -4,9 +4,8 @@ A Full Stack Developer with 8+ years of experience in developing enterprise appl
 
 I have hands-on experience working with JavaScript, Dart, PHP, Go, Flutter, C#, and several other libraries and frameworks...
 
-Ah entendi! O widget não carregou direito pra você. Sem problema, vou te mandar o código direto aqui no chat mesmo — é só copiar e colar no seu README.md!
-
 🧑‍💻 Languages
+
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -19,6 +18,7 @@ Ah entendi! O widget não carregou direito pra você. Sem problema, vou te manda
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 📱 Mobile & Frontend
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -28,6 +28,7 @@ Ah entendi! O widget não carregou direito pra você. Sem problema, vou te manda
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ⚙️ Backend & Architecture
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -39,6 +40,7 @@ Ah entendi! O widget não carregou direito pra você. Sem problema, vou te manda
 ![SOLID](https://img.shields.io/badge/SOLID-00ADD8?style=for-the-badge)
 
 🗄️ Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -46,6 +48,7 @@ Ah entendi! O widget não carregou direito pra você. Sem problema, vou te manda
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
 ☁️ Cloud & DevOps
+
 ![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
@@ -58,11 +61,13 @@ Ah entendi! O widget não carregou direito pra você. Sem problema, vou te manda
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 📨 Messaging & Streaming
+
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![SQS](https://img.shields.io/badge/SQS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 🤖 AI & ML
+
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -70,6 +75,7 @@ Ah entendi! O widget não carregou direito pra você. Sem problema, vou te manda
 ![BERT](https://img.shields.io/badge/BERT-0052CC?style=for-the-badge&logo=huggingface&logoColor=white)
 
 🛠️ Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -81,5 +87,6 @@ Ah entendi! O widget não carregou direito pra você. Sem problema, vou te manda
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
 
 📊 GitHub Stats
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=gabizinha3&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabizinha3&layout=compact&theme=tokyonight&hide_border=true)
